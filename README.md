@@ -1,6 +1,6 @@
 # Lapak Nusantara - Frontend
 
-![Lapak Nusantara Banner](https://via.placeholder.com/1280x640.png?text=Lapak+Nusantara+-+Frontend)
+![Lapak Nusantara Banner](https://dummyimage.com/1280x640/cccccc/999999&text=Lapak+Nusantara+-+Frontend)
 Repositori ini berisi kode untuk sisi **frontend** dari platform marketplace **Lapak Nusantara**. Dibangun dengan [Next.js](https://nextjs.org/) untuk menyajikan antarmuka pengguna (UI) yang modern, cepat, dan interaktif.
 
 ## 🔗 Repositori Terkait
@@ -9,7 +9,7 @@ Repositori ini berisi kode untuk sisi **frontend** dari platform marketplace **L
 
 ## 🖥️ Tampilan (Screenshots)
 
-![Screenshot App](https://via.placeholder.com/800x500.png?text=Tampilan+Homepage)
+![Screenshot App](https://dummyimage.com/800x500/eeeeee/666666&text=Tampilan+Homepage)
 
 ## 🚀 Stack Teknologi
 
